@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .header-link {
+    @apply px-5 hover:text-blue-600 font-semibold text-center text-lg focus:text-blue-700 align-middle place-self-center
+  }
+}
