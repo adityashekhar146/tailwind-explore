@@ -11,13 +11,11 @@ const Home: NextPage = () => {
         <link rel="icon" href="/images/cloud-refresh.ico" />
       </Head>
 
-      <Header />
-
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
         <h1 className="text-6xl font-bold">
-          Say ola to{' '}
+          Say ola to the{' '}
           <a className="text-blue-600" href="https://nextjs.org">
-            Next.js!
+            Salugus!
           </a>
         </h1>
 
